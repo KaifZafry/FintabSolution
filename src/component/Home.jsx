@@ -336,7 +336,7 @@ const Home = () => {
         <div
           id="rs-testimonial"
           className="rs-testimonial testimonial-style3 pt-120 md-pt-80"
-          style={{paddingBottom:"60px"}}
+          style={{paddingBottom:"40px"}}
         >
           <div className="row no-gutters">
             <div className="col-lg-6 testi-image"></div>
@@ -396,7 +396,7 @@ const Home = () => {
                     </div>
                     <div className="testi-content">
                       <div className="testi-information">
-                        <div className="testi-name">Asif Alam</div>
+                        <div className="testi-name">Asif Siddique</div>
                         <span className="designation">Customer</span>
                       </div>
                     </div>

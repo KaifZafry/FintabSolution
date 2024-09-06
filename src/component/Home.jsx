@@ -336,7 +336,7 @@ const Home = () => {
         <div
           id="rs-testimonial"
           className="rs-testimonial testimonial-style3 pt-120 md-pt-80"
-          style={{paddingBottom:"50px"}}
+          style={{paddingBottom:"60px"}}
         >
           <div className="row no-gutters">
             <div className="col-lg-6 testi-image"></div>
